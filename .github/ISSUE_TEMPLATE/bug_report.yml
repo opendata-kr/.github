@@ -1,0 +1,57 @@
+name: 버그 신고
+description: 도구가 예상과 다르게 동작할 때
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        재현 가능한 버그를 신고해 주셔서 고맙습니다. 서비스키 같은 민감 정보는 절대 포함하지 마세요.
+  - type: input
+    id: tool
+    attributes:
+      label: 도구, 서비스
+      description: 어떤 도구에서 발생했나요
+      placeholder: "@opendata-kr/<service>-mcp"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 버전
+      placeholder: "예: 1.2.0"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 절차
+      description: 무엇을 했을 때 발생하는지 단계별로
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대한 동작
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 실제 동작
+      description: 에러 메시지가 있다면 함께 붙여 주세요(서비스키 제거 후)
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: 환경
+      placeholder: |
+        - OS:
+        - Node.js:
+        - 실행 환경(Claude Desktop, CLI 등):
+    validations:
+      required: false
