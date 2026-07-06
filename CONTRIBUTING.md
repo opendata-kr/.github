@@ -31,8 +31,8 @@ opendata-kr은 data.go.kr 서비스마다 별도 리포로 도구를 관리합�
 ## 표준 규약 (반드시 지킬 것)
 
 - 리포명, 패키지명: `<service-slug>-mcp`, `@opendata-kr/<service-slug>-mcp`. 예외 없음.
-- 라이선스: 모든 코드 기여는 Apache-2.0 으로 제공됩니다. PR을 여는 것으로 이에 동의하는 것으로 봅니다.
-- 커밋: 명확한 메시지. 하나의 PR은 하나의 논리적 변경.
+- 라이선스: 모든 코드 기여는 MIT 로 제공됩니다. PR을 여는 것으로 이에 동의하는 것으로 봅니다.
+- 커밋: [Conventional Commits](https://www.conventionalcommits.org) 형식(`feat`, `fix`, `docs` 등)으로 씁니다. 릴리스 도구(release-please)가 커밋 메시지로 버전과 변경로그를 산정하므로, 형식을 지켜야 릴리스가 만들어집니다. 하나의 PR은 하나의 논리적 변경.
 
 ## 개발 환경
 
@@ -41,6 +41,7 @@ opendata-kr은 data.go.kr 서비스마다 별도 리포로 도구를 관리합�
 
 ```bash
 pnpm install
+pnpm typecheck
 pnpm test
 pnpm build
 ```
