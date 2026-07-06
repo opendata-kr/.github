@@ -1,87 +1,87 @@
-# Contributor Covenant Code of Conduct
+# 행동 강령
 
-> 이 문서는 [Contributor Covenant](https://www.contributor-covenant.org) 3.0 표준을 따릅니다.
+> 이 문서는 [기여자 서약(Contributor Covenant)](https://www.contributor-covenant.org) 3.0 판의 [공식 한국어 번역](https://www.contributor-covenant.org/ko/version/3/0/code_of_conduct/)입니다.
 > 위반 신고는 joojinhyun00@gmail.com 으로 접수됩니다.
-> opendata-kr은 현재 단일 메인테이너가 커뮤니티 모더레이터(Community Moderator) 역할을 겸합니다.
+> opendata-kr은 현재 단일 메인테이너가 커뮤니티 중재자(Community Moderator) 역할을 겸합니다.
 
-## Our Pledge
+## 서약
 
-We pledge to make our community welcoming, safe, and equitable for all.
+우리는 모든 이를 따뜻이 맞이하며, 모두에게 안전하고 공정한 커뮤니티를 만들 것을 맹세합니다.
 
-We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics, neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant.
+우리는 인종, 민족, 계급, 피부색, 나이, 신체적 특징, 신경다양성, 장애, 생물학적 또는 사회적 성, 성 정체성 또는 성 표현, 성적 지향, 언어, 신념 또는 종교, 출신 국가 또는 사회적 배경, 사회경제적 지위, 교육 수준 등의 특성에 관계없이 모든 개인의 존엄성, 권리 및 기여를 존중하고 증진하는 환경을 조성하기 위해 최선을 다합니다. 본 서약을 준수하며 선의로 참여하는 모든 사람에게 동등한 참여 권리를 보장합니다.
 
-## Encouraged Behaviors
+## 장려하는 행동
 
-While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
+사회적 규범의 차이를 인정하면서도, 우리 모두는 커뮤니티에서 요구하는 바람직한 행동 기준을 충족하기 위해 노력합니다. 또한 우리는 문화, 배경 또는 모국어의 차이로 인해 우리의 말과 행동이 의도와 다르게 해석될 수도 있음을 이해합니다.
 
-With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
+이러한 점을 유념하며, 우리는 서로를 사려 깊게 대하고 우리가 공유하는 다음 가치를 중심으로 행동할 것에 동의합니다.
 
-1. Respecting the **purpose of our community**, our activities, and our ways of gathering.
-2. Engaging **kindly and honestly** with others.
-3. Respecting **different viewpoints** and experiences.
-4. **Taking responsibility** for our actions and contributions.
-5. Gracefully giving and accepting **constructive feedback**.
-6. Committing to **repairing harm** when it occurs.
-7. Behaving in other ways that promote and sustain the **well-being of our community**.
+1. 우리 **커뮤니티의 목적**, 활동 및 모임 방식을 존중합니다.
+2. **친절하고 정직하게** 다른 사람들과 소통합니다.
+3. **다양한 관점**과 경험을 존중합니다.
+4. 자신의 행동과 기여에 **책임**을 집니다.
+5. **건설적인 피드백**을 정중하게 주고받습니다.
+6. 피해가 발생했을 시 **이를 바로잡기 위해** 최선을 다합니다.
+7. 그 밖에도 **커뮤니티의 안녕**을 증진하고 유지하는 방향으로 행동합니다.
 
-## Restricted Behaviors
+## 제한하는 행동
 
-We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
+우리는 커뮤니티 내에서 다음과 같은 행동을 제한하기로 동의합니다. 이러한 행동의 실행, 위협 및 조장은 본 행동 강령을 위반하는 것입니다.
 
-1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
-2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group of people.
-3. **Stereotyping or discrimination.** Characterizing anyone's personality or behavior on the basis of immutable identities or traits.
-4. **Sexualization.** Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community.
-5. **Violating confidentiality.** Sharing or acting on someone's personal or private information without their permission.
-6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
-7. Behaving in other ways that **threaten the well-being** of our community.
+1. **괴롭힘.** 분명하게 밝힌 경계를 침해하거나, 어떠한 형태로든 멈추라는 요구가 있은 후에도 불필요한 개인적 관심을 갖고 접근하는 행위.
+2. **인신공격.** 커뮤니티 구성원 또는 특정 집단을 향해 모욕적이거나, 비하적이거나, 경멸적인 발언을 하는 행위.
+3. **고정관념 또는 차별.** 바꿀 수 없는 정체성이나 특성을 근거로 타인의 인격이나 행동을 특징짓는 행위.
+4. **성적 대상화.** 커뮤니티의 맥락이나 목적에 비추어 대부분의 사람들이 부적절하다고 간주할 만한 성적인 언행.
+5. **비밀 침해.** 타인의 신상 관련 정보 또는 개인적인 정보를 당사자의 허락 없이 공유하거나, 그 정보를 바탕으로 행하는 모든 행위.
+6. **위해 행위.** 개인이나 집단에 대한 폭력 또는 그 밖의 해를 가하거나, 부추기거나, 위협하는 행위.
+7. 커뮤니티의 **안녕을 위협하는** 기타 행위.
 
-### Other Restrictions
+### 기타 제한 사항
 
-1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
-2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
-3. **Promotional materials.** Sharing marketing or other commercial content in a way that is outside the norms of the community.
-4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
+1. **신원 위장.** 어떠한 이유로든 타인을 사칭하거나, 집행 조치를 회피할 목적으로 타인인 척 하는 행위.
+2. **출처 미표기.** 기여물의 출처를 적절히 밝히지 않는 행위.
+3. **홍보성 자료.** 커뮤니티의 규범에 맞지 않는 방식으로 광고 또는 기타 상업적 콘텐츠를 공유하는 행위.
+4. **무책임한 소통.** 어떠한 것이든 본 강령이 제한하는 다른 행위를 포함하거나, 링크하거나, 또는 묘사하는 내용을 책임감 없이 노출하는 행위.
 
-## Reporting an Issue
+## 문제 신고
 
-Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
+커뮤니티 구성원들이 최선을 다해 협력하더라도 상호 간의 갈등은 발생할 수 있습니다. 모든 갈등이 행동 강령 위반에 해당하는 것은 아니며, 본 행동 강령은 갈등을 예방하고 피해를 최소화하는 데 도움이 되는 권장 행동 방식과 규범을 증진합니다.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, email **joojinhyun00@gmail.com**.
+사건이 발생한 경우 이를 즉시 신고하는 것이 중요합니다. 잠재적인 위반 행위를 신고하려면 **joojinhyun00@gmail.com** 으로 이메일을 보내 주세요.
 
-Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+커뮤니티 중재자는 위반 행위 신고를 진지하게 받아들이며, 적시에 대응하기 위해 최선을 다합니다. 메시지와 로그, 녹화물을 검토하거나 목격자 및 기타 관계 당사자를 면담하는 등 모든 행동 강령 위반 신고에 대해 조사를 진행합니다. 커뮤니티 중재자는 안전과 비밀 유지를 우선시한다는 전제 하에 조사 및 집행 조치를 가능한 한 투명하게 유지합니다. 안전과 비밀 유지의 가치를 지키기 위해 집행 조치는 관계 당사자들과 비공개로 진행하지만, 상호 합의한 해결 방안의 일환이라면 커뮤니티 전체에 알릴 수도 있습니다.
 
-## Addressing and Repairing Harm
+## 피해 대응 및 교정
 
-If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+커뮤니티 중재자의 조사 결과 본 행동 강령의 위반을 확인한 경우, 해당 사건이 관련 개인 및 커뮤니티 전체에 미친 영향에 따라 피해를 바로잡기 위한 최선의 방법을 결정하는 데 다음의 단계적 집행 기준을 사용할 수 있습니다. 위반의 심각성에 따라 하위 단계를 건너뛸 수 있습니다.
 
-1. **Warning**
-   1. Event: A violation involving a single incident or series of incidents.
-   2. Consequence: A private, written warning from the Community Moderators.
-   3. Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
-2. **Temporarily Limited Activities**
-   1. Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
-   2. Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.
-   3. Repair: Examples of repair may include making an apology, using the cooldown period to reflect on actions and impact, and being thoughtful about re-entering community spaces after the period is over.
-3. **Temporary Suspension**
-   1. Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
-   2. Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
-   3. Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
-4. **Permanent Ban**
-   1. Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
-   2. Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
-   3. Repair: There is no possible repair in cases of this severity.
+1. 경고
+   1. 적용 상황: 단일 사건 또는 일련의 사건들을 수반한 위반 행위.
+   2. 대응 조치: 커뮤니티 중재자의 비공개 서면 경고.
+   3. 교정 노력: 교정 노력의 예시로는 비공개 서면 사과와 책임 시인, 준수 사항을 명확히 확인하고 숙지하려는 노력 등이 있습니다.
+2. 일시적 활동 제한
+   1. 적용 상황: 이전에 경고를 받은 위반 행위의 반복적인 발생, 또는 보다 심각한 위반 행위의 최초 발생.
+   2. 대응 조치: 상황의 심각성을 강조하고, 관계된 커뮤니티 구성원들에게 해당 일을 추스를 시간을 주기 위한 성격의 한시적 자숙 기간을 포함한 비공개 서면 경고. 자숙 기간의 적용 범위는 특정 소통 채널이나 특정 커뮤니티 구성원과의 상호작용으로 한정할 수 있습니다.
+   3. 교정 노력: 교정 노력의 예시로는 사과, 자신의 행동과 그 영향에 대한 자숙 기간 동안의 성찰, 자숙 기간 종료 후 커뮤니티 공간에 다시 참여할 때 신중하고 사려 깊은 태도를 갖추는 것 등이 있습니다.
+3. 일시적 정지
+   1. 적용 상황: 커뮤니티 중재자가 경고를 통해 해결하고자 했음에도 반복되는 위반 행태, 또는 심각한 단일 위반 행위.
+   2. 대응 조치: 복귀 조건을 포함한 비공개 서면 경고. 대개 일시적 정지는 정지 대상자에게 자신의 행동을 되돌아보고 시정 방법을 성찰할 시간을 제공합니다.
+   3. 교정 노력: 교정 노력의 예시로는 정지 조치의 취지 존중, 명시된 복귀 조건의 충족, 정지 해제 시 커뮤니티에 어떻게 다시 녹아들지에 대해 신중하고 사려 깊은 태도를 갖추는 것 등이 있습니다.
+4. 영구 정지
+   1. 적용 상황: 다른 단계의 조치들로는 해결에 실패한 반복적인 행동 강령 위반 행태, 또는 사안이 너무나 중대하여 해당 인물이 구성원으로 남아 있는 한 커뮤니티의 안전을 보장할 수 없다고 커뮤니티 중재자가 판단할 정도의 심각한 위반 행위.
+   2. 대응 조치: 모든 커뮤니티 공간, 도구 및 소통 채널에 대한 접근 권한 박탈. 일반적으로 영구 정지는 매우 드물게 사용해야 하며, 이를 뒷받침하는 확고한 근거가 있어야 하고, 다른 교정 방안들을 통한 행동 변화 시도가 모두 실패한 경우에만 최후의 수단으로 취해야 합니다.
+   3. 교정 노력: 이 정도의 중대한 사안에서는 가능한 교정 방안이 존재하지 않습니다.
 
-This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
+이 단계적 집행 기준은 하나의 기준선으로 마련한 것입니다. 이는 커뮤니티의 최선의 이익에 부합하는 커뮤니티 관리자의 재량권과 판단 권한을 제한하지 않습니다.
 
-## Scope
+## 적용 범위
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+본 행동 강령은 모든 커뮤니티 공간에 적용되며, 개인이 공공장소나 그 밖의 공간에서 공식적으로 커뮤니티를 대표하는 경우에도 적용됩니다. 커뮤니티를 대표하는 사례로는 공식 이메일 주소의 사용, 공식 소셜 미디어 계정을 통한 게시, 임명된 대표자로서 참석한 온라인 또는 오프라인 행사에서의 활동 등이 있습니다.
 
-## Attribution
+## 귀속
 
-This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at <https://www.contributor-covenant.org/version/3/0/>.
+본 행동 강령은 기여자 서약(Contributor Covenant) 3.0 판을 기반으로 작성하였으며, 해당 원문은 <https://www.contributor-covenant.org/version/3/0/>에서 영구적으로 열람할 수 있습니다.
 
-Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>.
+기여자 서약은 Organization for Ethical Source에서 관리하며 CC BY-SA 4.0 라이선스에 따라 제공합니다. 이 라이선스의 사본을 보려면 <https://creativecommons.org/licenses/by-sa/4.0/>를 방문하세요.
 
-For answers to common questions about Contributor Covenant, see the FAQ at <https://www.contributor-covenant.org/faq>. Translations are provided at <https://www.contributor-covenant.org/translations>. Additional enforcement and community guideline resources can be found at <https://www.contributor-covenant.org/resources>. The enforcement ladder was inspired by the work of [Mozilla's code of conduct team](https://github.com/mozilla/inclusion).
+기여자 서약에 대해 자주 묻는 질문들에 대한 답변은 <https://www.contributor-covenant.org/faq>에서 확인할 수 있습니다. 번역본들은 <https://www.contributor-covenant.org/translations>에서 제공합니다. 추가적인 집행 및 커뮤니티 지침 자료는 <https://www.contributor-covenant.org/resources>에서 찾을 수 있습니다. 단계적 집행 기준은 [Mozilla 행동 강령 팀](https://github.com/mozilla/inclusion)의 작업에서 영감을 받았습니다.
