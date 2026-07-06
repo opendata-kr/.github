@@ -20,13 +20,13 @@ opendata-kr은 data.go.kr 서비스마다 별도 리포로 도구를 관리합�
 
 ### 2. 새 data.go.kr 서비스 도구 추가
 
-1. 대상 서비스를 [Discussions](https://github.com/orgs/opendata-kr/discussions)에 먼저 제안하거나 기존 제안을 확인합니다(중복 방지).
+1. 대상 서비스를 [Discussions](https://github.com/opendata-kr/.github/discussions)에 먼저 제안하거나 기존 제안을 확인합니다(중복 방지).
 2. 새 리포를 표준 구조로 시작합니다. 기존 도구 리포 하나를 참고 골격으로 삼으세요.
    - 루트 `server.json` 의 `name`, `description`, `packages`, `environmentVariables` 를 정확히 기술합니다.
    - 서비스키 같은 시크릿은 `isSecret: true`, `isRequired: true` 로 표기합니다.
    - 원본 data.go.kr API 문서 링크를 README에 남깁니다.
 3. 최소 하나의 동작 예제와 테스트를 포함합니다.
-4. 리포를 opendata-kr 조직에 만드는 것은 메인테이너가 도와드립니다. [Discussions](https://github.com/orgs/opendata-kr/discussions)로 알려주세요.
+4. 리포를 opendata-kr 조직에 만드는 것은 메인테이너가 도와드립니다. [Discussions](https://github.com/opendata-kr/.github/discussions)로 알려주세요.
 
 ## 표준 규약 (반드시 지킬 것)
 
@@ -47,4 +47,4 @@ pnpm build
 
 ## 도움이 필요하면
 
-[SUPPORT.md](SUPPORT.md) 를 참고하세요. 막히면 [Discussions](https://github.com/orgs/opendata-kr/discussions)에 편하게 질문해 주세요.
+[SUPPORT.md](SUPPORT.md) 를 참고하세요. 막히면 [Discussions](https://github.com/opendata-kr/.github/discussions)에 편하게 질문해 주세요.

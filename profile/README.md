@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/org/opendata-kr"><img alt="npm" src="https://img.shields.io/badge/npm-%40opendata--kr-CB3837?logo=npm"></a>
   <a href="https://github.com/opendata-kr/.github/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
-  <a href="https://github.com/orgs/opendata-kr/discussions"><img alt="discussions" src="https://img.shields.io/badge/community-Discussions-5865F2?logo=github"></a>
+  <a href="https://github.com/opendata-kr/.github/discussions"><img alt="discussions" src="https://img.shields.io/badge/community-Discussions-5865F2?logo=github"></a>
 </p>
 
 > [!NOTE]
@@ -55,7 +55,7 @@ npm install @opendata-kr/<service>-mcp
 ## 함께하기
 
 - 마음에 드는 도구 리포에 Star를 눌러주세요
-- 버그, 제안: 각 도구 리포의 이슈, 전체 논의는 [Discussions](https://github.com/orgs/opendata-kr/discussions)
+- 버그, 제안: 각 도구 리포의 이슈, 전체 논의는 [Discussions](https://github.com/opendata-kr/.github/discussions)
 - 기여 방법: [CONTRIBUTING](https://github.com/opendata-kr/.github/blob/main/CONTRIBUTING.md), [행동 강령](https://github.com/opendata-kr/.github/blob/main/CODE_OF_CONDUCT.md), [거버넌스](https://github.com/opendata-kr/.github/blob/main/GOVERNANCE.md)
 
 ## 라이선스

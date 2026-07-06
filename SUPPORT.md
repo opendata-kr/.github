@@ -9,9 +9,9 @@ opendata-kr 도구를 쓰다 막히면 아래 경로를 이용하세요.
 
 ## 질문하기
 
-- 사용법, 설정, "이거 되나요" 류 질문: [Discussions](https://github.com/orgs/opendata-kr/discussions)
+- 사용법, 설정, "이거 되나요" 류 질문: [Discussions](https://github.com/opendata-kr/.github/discussions)
 - 특정 도구의 재현 가능한 버그: 해당 `<service>-mcp` 리포에 이슈 등록
-- 새 서비스 도구 요청: [Discussions](https://github.com/orgs/opendata-kr/discussions)
+- 새 서비스 도구 요청: [Discussions](https://github.com/opendata-kr/.github/discussions)
 
 ## 무엇이 지원 범위가 아닌가
 

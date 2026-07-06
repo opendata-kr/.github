@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 질문과 토론
-    url: https://github.com/orgs/opendata-kr/discussions
+    url: https://github.com/opendata-kr/.github/discussions
     about: 사용법, 설정, 아이디어 등은 이슈 대신 Discussions에서 이야기해 주세요.
   - name: 새 서비스 도구 요청
-    url: https://github.com/orgs/opendata-kr/discussions
+    url: https://github.com/opendata-kr/.github/discussions
     about: 아직 없는 data.go.kr 서비스의 도구가 필요하면 Discussions에 요청해 주세요.
