@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/org/opendata-kr"><img alt="npm" src="https://img.shields.io/badge/npm-%40opendata--kr-CB3837?logo=npm"></a>
-  <a href="https://github.com/opendata-kr/.github/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
+  <a href="https://github.com/opendata-kr/.github/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue"></a>
   <a href="https://github.com/opendata-kr/.github/discussions"><img alt="discussions" src="https://img.shields.io/badge/community-Discussions-5865F2?logo=github"></a>
 </p>
 
@@ -33,7 +33,7 @@ opendata-kr은 각 서비스를 하나의 표준 AI 도구 규격(MCP 서버, `s
 ## 시작하기
 
 ```bash
-npm install @opendata-kr/<service>-mcp
+npx -y @opendata-kr/<service>-mcp
 ```
 
 전체 도구는 [조직 리포 목록](https://github.com/orgs/opendata-kr/repositories)에서 찾을 수 있습니다.
@@ -60,5 +60,5 @@ npm install @opendata-kr/<service>-mcp
 
 ## 라이선스
 
-Apache-2.0. 각 리포의 `LICENSE` 를 참조하세요.
+MIT. 각 리포의 `LICENSE` 를 참조하세요.
 보안 취약점은 공개 이슈 대신 [SECURITY](https://github.com/opendata-kr/.github/blob/main/SECURITY.md) 절차로 신고해 주세요.
