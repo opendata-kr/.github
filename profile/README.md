@@ -32,19 +32,23 @@ opendata-kr은 각 서비스를 하나의 표준 AI 도구 규격(MCP 서버, `s
 
 ## 시작하기
 
-```bash
-npx -y @opendata-kr/<service>-mcp
-```
-
-전체 도구는 [조직 리포 목록](https://github.com/orgs/opendata-kr/repositories)에서 찾을 수 있습니다.
+각 도구는 해당 리포의 README에 있는 설정으로 바로 실행합니다. 전체 목록은 [조직 리포 목록](https://github.com/orgs/opendata-kr/repositories)에서 찾을 수 있습니다.
 
 ## 리포지토리 구조
 
-각 data.go.kr 서비스는 **별도의 리포지토리**입니다. 이름만 알면 리포를 바로 찾을 수 있도록, 네이밍 규약은 `<service-slug>-mcp` 하나로 고정합니다.
+각 data.go.kr 서비스는 **별도의 리포지토리**입니다. 이름만 알면 리포를 바로 찾을 수 있도록, 네이밍 규약은 `<service-slug>-mcp` 하나로 고정합니다. 패키지는 `@opendata-kr/<service-slug>-mcp` 로 발행합니다.
 
-- 예: [opendata-kr/narajangteo-bid-mcp](https://github.com/opendata-kr/narajangteo-bid-mcp) (나라장터 입찰공고정보서비스)
+## 로드맵
 
-패키지는 `@opendata-kr/<service-slug>-mcp` 로 발행합니다. 각 도구 리포는 루트에 [`server.json`](https://modelcontextprotocol.io/registry/about)을 두어 자기 자신을 표준 기술하며, 서비스키 같은 시크릿은 `environmentVariables` 에 `isSecret: true` 로 표기합니다.
+첫 확장 도메인은 나라장터 조달입니다. 판매자 관점의 프리세일즈 흐름을 단계별 MCP 도구로 제공합니다.
+
+| 단계 | 목적 | 도구 | 설명 |
+|---|---|---|---|
+| 발주계획·조달요청 | 기회 선점 | 신규 예정 | 공고 전 발주를 미리 파악해 파이프라인을 확보 |
+| 사전규격 | 규격 개입 | [narajangteo-prespec-mcp](https://github.com/opendata-kr/narajangteo-prespec-mcp) | 규격 초안을 확인하고 의견을 제출해 요건에 영향 |
+| 입찰공고 | 투찰 판단 | [narajangteo-bid-mcp](https://github.com/opendata-kr/narajangteo-bid-mcp) | 공고와 참가자격, 기초금액으로 참여 여부를 결정 |
+| 개찰·낙찰 | 결과 분석 | [narajangteo-opening-mcp](https://github.com/opendata-kr/narajangteo-opening-mcp) | 개찰 결과와 낙찰자로 낙찰가율을 분석 |
+| 계약실적 | 경쟁 파악 | 신규 예정 | 경쟁사 계약 이력으로 단가와 수요기관을 벤치마크 |
 
 ## 왜 opendata-kr인가
 
