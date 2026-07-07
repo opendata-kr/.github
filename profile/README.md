@@ -2,9 +2,11 @@
   이 파일은 opendata-kr 조직의 공개 프로필입니다.
   경로 규칙(GitHub 공식): 반드시 `<org>/.github` 리포의 `profile/README.md` 여야 org Overview 탭에 렌더됩니다.
   링크는 절대 URL을 씁니다. 프로필 README의 상대경로는 렌더 위치에 따라 깨질 수 있습니다.
-  배너 이미지를 넣으려면 아래 주석을 해제하고 profile/images/banner.png 를 추가하세요.
+  배너·아바타 원본은 profile/images/ 에 있습니다(banner.png, avatar.png, avatar-square.png). 조직 아바타는 조직 Settings에서 avatar-square.png 를 업로드합니다.
 -->
-<!-- <p align="center"><img src="images/banner.png" alt="opendata-kr" width="640"></p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/opendata-kr/.github/main/profile/images/banner.png" alt="opendata-kr: 공공데이터를 표준 AI 도구로" width="100%">
+</p>
 
 <h1 align="center">opendata-kr</h1>
 
