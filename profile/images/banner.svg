@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 384" width="1280" height="384" role="img" aria-label="opendata-kr">
+  <defs>
+    <linearGradient id="bbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C1330"/><stop offset="0.55" stop-color="#171246"/><stop offset="1" stop-color="#241A55"/>
+    </linearGradient>
+    <linearGradient id="wm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EEF2FF"/><stop offset="1" stop-color="#C7D2FE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="384" fill="url(#bbg)"/>
+  <g fill="#ffffff" fill-opacity="0.04">
+    <circle cx="1120" cy="70" r="3"/><circle cx="1170" cy="70" r="3"/><circle cx="1220" cy="70" r="3"/>
+    <circle cx="1120" cy="120" r="3"/><circle cx="1170" cy="120" r="3"/><circle cx="1220" cy="120" r="3"/>
+  </g>
+
+  <!-- avatar tile reused as banner mark -->
+  <g transform="translate(84,92) scale(2)">
+    <rect width="100" height="100" rx="24" fill="#6366F1"/>
+    <path d="M24 22 H46 L58 34 V76 H24 Z" fill="#ffffff"/>
+    <path d="M46 22 L58 34 H46 Z" fill="#C7D2FE"/>
+    <rect x="31" y="50" width="20" height="4" rx="2" fill="#6366F1"/>
+    <rect x="31" y="60" width="14" height="4" rx="2" fill="#6366F1"/>
+    <path transform="translate(72 30)" d="M0 -12 Q2.16 -2.16 12 0 Q2.16 2.16 0 12 Q-2.16 2.16 -12 0 Q-2.16 -2.16 0 -12 Z" fill="#22D3EE"/>
+  </g>
+
+  <text x="322" y="182" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace" font-size="72" font-weight="700" fill="url(#wm)" letter-spacing="-1">opendata-kr</text>
+  <text x="324" y="228" font-family="system-ui, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="30" font-weight="600" fill="#A5B4FC">공공데이터를 표준 AI 도구로</text>
+  <text x="324" y="266" font-family="system-ui, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" fill="#8B94B8">Standardized AI (MCP) tools for Korea's public data OpenAPIs</text>
+</svg>

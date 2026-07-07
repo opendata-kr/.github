@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512" role="img" aria-label="opendata-kr">
+  <rect width="100" height="100" fill="#6366F1"/>
+  <path d="M24 22 H46 L58 34 V76 H24 Z" fill="#ffffff"/>
+  <path d="M46 22 L58 34 H46 Z" fill="#C7D2FE"/>
+  <rect x="31" y="50" width="20" height="4" rx="2" fill="#6366F1"/>
+  <rect x="31" y="60" width="14" height="4" rx="2" fill="#6366F1"/>
+  <path transform="translate(72 30)" d="M0 -12 Q2.16 -2.16 12 0 Q2.16 2.16 0 12 Q-2.16 2.16 -12 0 Q-2.16 -2.16 0 -12 Z" fill="#22D3EE"/>
+</svg>
