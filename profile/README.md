@@ -50,6 +50,7 @@ opendata-kr은 각 서비스를 하나의 표준 AI 도구 규격(MCP 서버, `s
 | [사전규격](https://www.data.go.kr/data/15129437/openapi.do) | 규격 개입 | [narajangteo-prespec-mcp](https://github.com/opendata-kr/narajangteo-prespec-mcp) | 규격 초안을 확인하고 의견을 제출해 요건에 영향 |
 | [물품목록](https://www.data.go.kr/data/15129417/openapi.do) | 대상 필터 | 신규 예정 | 세부품명번호로 관심 공고를 정밀하게 좁혀 타깃 |
 | [입찰공고](https://www.data.go.kr/data/15129394/openapi.do) | 투찰 판단 | [narajangteo-bid-mcp](https://github.com/opendata-kr/narajangteo-bid-mcp) | 공고와 참가자격, 기초금액으로 참여 여부를 결정 |
+| [업체 자격](https://www.data.go.kr/data/15129466/openapi.do) | 자격 검증 | [narajangteo-corpinfo-mcp](https://github.com/opendata-kr/narajangteo-corpinfo-mcp) | 사업자번호로 등록업종·공급물품 자격과 부정당 제재를 확인 |
 | [개찰·낙찰](https://www.data.go.kr/data/15129397/openapi.do) | 결과 분석 | [narajangteo-opening-mcp](https://github.com/opendata-kr/narajangteo-opening-mcp) | 개찰 결과와 낙찰자로 낙찰가율을 분석 |
 | [계약실적](https://www.data.go.kr/data/15129427/openapi.do) | 경쟁 파악 | 신규 예정 | 경쟁사 계약 이력으로 단가와 수요기관을 벤치마크 |
 
